@@ -1,0 +1,13 @@
+﻿  strtok_s2.c
+C:\Users\김영빈\Desktop\기컴프\CP_B_Week12_20165079\CH_12\ch12_5_strtok_s2\strtok_s2.c(12,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_Week12_20165079\CH_12\ch12_5_strtok_s2\strtok_s2.c(12,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_Week12_20165079\CH_12\ch12_5_strtok_s2\strtok_s2.c(16,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_Week12_20165079\CH_12\ch12_5_strtok_s2\strtok_s2.c(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_Week12_20165079\CH_12\ch12_5_strtok_s2\strtok_s2.c(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_Week12_20165079\CH_12\ch12_5_strtok_s2\strtok_s2.c(26,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_Week12_20165079\CH_12\ch12_5_strtok_s2\strtok_s2.c(26,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_Week12_20165079\CH_12\ch12_5_strtok_s2\strtok_s2.c(28,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_Week12_20165079\CH_12\ch12_5_strtok_s2\strtok_s2.c(33,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_Week12_20165079\CH_12\ch12_5_strtok_s2\strtok_s2.c(35,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_Week12_20165079\CH_12\ch12_5_strtok_s2\strtok_s2.c(35,9): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+  ch12_5_strtok_s2.vcxproj -> C:\Users\김영빈\Desktop\기컴프\CP_B_Week12_20165079\CH_12\Debug\ch12_5_strtok_s2.exe

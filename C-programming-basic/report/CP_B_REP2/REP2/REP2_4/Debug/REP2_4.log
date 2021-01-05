@@ -1,0 +1,5 @@
+﻿  REP2_4.c
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP2_20165079\REP2\REP2_4\REP2_4.c(6,1): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP2_20165079\REP2\REP2_4\REP2_4.c(7,1): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP2_20165079\REP2\REP2_4\REP2_4.c(8,1): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  REP2_4.vcxproj -> C:\Users\김영빈\Desktop\기컴프\CP_B_REP2_20165079\REP2\Debug\REP2_4.exe

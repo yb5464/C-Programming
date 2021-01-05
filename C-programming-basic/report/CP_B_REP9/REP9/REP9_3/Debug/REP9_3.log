@@ -1,0 +1,5 @@
+﻿  REP9_3.c
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP9_20165079\REP9\REP9_3\REP9_3.c(10,9): warning C4477: 'printf' : 서식 문자열 '%#010x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP9_20165079\REP9\REP9_3\REP9_3.c(13,9): warning C4477: 'printf' : 서식 문자열 '%#010x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP9_20165079\REP9\REP9_3\REP9_3.c(14,9): warning C4477: 'printf' : 서식 문자열 '%#010x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+  REP9_3.vcxproj -> C:\Users\김영빈\Desktop\기컴프\CP_B_REP9_20165079\REP9\Debug\REP9_3.exe

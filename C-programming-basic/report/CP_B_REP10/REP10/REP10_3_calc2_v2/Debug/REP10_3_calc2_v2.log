@@ -1,0 +1,7 @@
+﻿  REP10_3_calc2_v2.c
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP10_20165079\REP10\REP10_3_calc2_v2\REP10_3_calc2_v2.c(28,9): warning C4477: 'printf' : 서식 문자열 '%8u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP10_20165079\REP10\REP10_3_calc2_v2\REP10_3_calc2_v2.c(28,9): warning C4477: 'printf' : 서식 문자열 '%8u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP10_20165079\REP10\REP10_3_calc2_v2\REP10_3_calc2_v2.c(29,10): warning C4013: 'atoi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP10_20165079\REP10\REP10_3_calc2_v2\REP10_3_calc2_v2.c(42,10): warning C4477: 'printf' : 서식 문자열 '%8u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP10_20165079\REP10\REP10_3_calc2_v2\REP10_3_calc2_v2.c(42,10): warning C4477: 'printf' : 서식 문자열 '%8u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+  REP10_3_calc2_v2.vcxproj -> C:\Users\김영빈\Desktop\기컴프\CP_B_REP10_20165079\REP10\Debug\REP10_3_calc2_v2.exe

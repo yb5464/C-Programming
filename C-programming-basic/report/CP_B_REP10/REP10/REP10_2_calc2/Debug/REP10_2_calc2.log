@@ -1,0 +1,8 @@
+﻿  REP10_2_calc2.c
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP10_20165079\REP10\REP10_2_calc2\REP10_2_calc2.c(29,9): warning C4477: 'printf' : 서식 문자열 '%8u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP10_20165079\REP10\REP10_2_calc2\REP10_2_calc2.c(29,9): warning C4477: 'printf' : 서식 문자열 '%8u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP10_20165079\REP10\REP10_2_calc2\REP10_2_calc2.c(30,10): warning C4013: 'atoi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP10_20165079\REP10\REP10_2_calc2\REP10_2_calc2.c(41,10): warning C4477: 'printf' : 서식 문자열 '%8u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP10_20165079\REP10\REP10_2_calc2\REP10_2_calc2.c(41,10): warning C4477: 'printf' : 서식 문자열 '%8u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP10_20165079\REP10\REP10_2_calc2\REP10_2_calc2.c(16,7): warning C4101: 'op' :참조되지 않은 지역 변수입니다.
+  REP10_2_calc2.vcxproj -> C:\Users\김영빈\Desktop\기컴프\CP_B_REP10_20165079\REP10\Debug\REP10_2_calc2.exe

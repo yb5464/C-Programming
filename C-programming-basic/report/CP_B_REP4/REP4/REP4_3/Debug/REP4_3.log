@@ -1,0 +1,4 @@
+﻿  REP4_3.c
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP4_20165079\REP4\REP4_3\REP4_3.c(8,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\김영빈\Desktop\기컴프\CP_B_REP4_20165079\REP4\REP4_3\REP4_3.c(6,9): warning C4101: 'DIGIT_N' :참조되지 않은 지역 변수입니다.
+  REP4_3.vcxproj -> C:\Users\김영빈\Desktop\기컴프\CP_B_REP4_20165079\REP4\Debug\REP4_3.exe

@@ -1,0 +1,3 @@
+﻿  func_var.c
+C:\Users\김영빈\Desktop\기컴프\CP_B_Week8_20165079\CH08_CH09\ch9_func_var\func_var.c(7,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+  ch9_func_var.vcxproj -> C:\Users\김영빈\Desktop\기컴프\CP_B_Week8_20165079\CH08_CH09\Debug\ch9_func_var.exe

@@ -1,0 +1,3 @@
+﻿  txtfile2.c
+C:\Users\김영빈\Desktop\CP_W14_B_20165079\ex_05\txtfile2.c(10,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  ex_05.vcxproj -> C:\Users\김영빈\Desktop\CP_W14_B_20165079\Debug\ch15_4_txtfile2.exe

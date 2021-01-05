@@ -1,0 +1,4 @@
+﻿  struct.c
+C:\Users\김영빈\Desktop\CP2020_W13_B_20165079\ex_04\struct.c(28,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\Users\김영빈\Desktop\CP2020_W13_B_20165079\ex_04\struct.c(30,10): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+  ex_04.vcxproj -> C:\Users\김영빈\Desktop\CP2020_W13_B_20165079\Debug\ch13_1_struct.exe
