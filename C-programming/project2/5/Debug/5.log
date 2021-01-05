@@ -1,0 +1,3 @@
+﻿  5.c
+C:\Users\김영빈\Desktop\6차학기\프로그래밍\report\report2\report2\5\5.c(9,1): warning C4133: '초기화 중': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+  5.vcxproj -> C:\Users\김영빈\Desktop\6차학기\프로그래밍\report\report2\report2\Debug\5.exe

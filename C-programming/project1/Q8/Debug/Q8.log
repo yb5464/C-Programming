@@ -1,0 +1,3 @@
+﻿  question8.c
+C:\Users\김영빈\Desktop\6차학기\프로그래밍\report\report1\Q8\question8.c(7,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Q8.vcxproj -> C:\Users\김영빈\Desktop\6차학기\프로그래밍\report\report1\Debug\Q8.exe

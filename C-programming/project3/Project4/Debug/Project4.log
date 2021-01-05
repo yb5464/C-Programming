@@ -1,0 +1,4 @@
+﻿  4.c
+C:\Users\김영빈\Desktop\6차학기\프로그래밍\report\report3\1\Project4\4.c(29,11): warning C4098: 'number_sum': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\김영빈\Desktop\6차학기\프로그래밍\report\report3\1\Project4\4.c(34,15): warning C4098: 'number_sum': 'void' 함수에서 값을 반환하고 있습니다.
+  Project4.vcxproj -> C:\Users\김영빈\Desktop\6차학기\프로그래밍\report\report3\1\Debug\Project4.exe
